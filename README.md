@@ -1,0 +1,2 @@
+# LoneRanger
+Projekt do školy
